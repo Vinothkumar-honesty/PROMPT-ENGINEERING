@@ -65,8 +65,7 @@ Explain different generative models such as GANs, VAEs, and diffusion models.
 Include an introduction to Large Language Models (LLMs) and their significance.
 Describe transformer architecture and models like GPT and BERT.
 Ensure all content is written in well-formed paragraphs with smooth flow, not bullet points.
-Keep the tone formal, educational, and suitable for academic use.<img width="1024" height="559" alt="723e7c4c-6aa7-4482-94eb-e5ffcd2aab69" src="https://github.com/user-attachments/assets/528100aa-8523-4b40-a00e-211412028279" />
-
+Keep the tone formal, educational, and suitable for academic use.
 ```
 
 
